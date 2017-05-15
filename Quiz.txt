@@ -1,0 +1,51 @@
+Import numpy and declare an array of 5 integers
+Get the type of the declared variable.
+Use object attribute to find the type of elements in the declared variable.
+Declare an multidimensional array with 4 rows and 3 columns with integerd data. Print the number of dimensions, the shape of the array and the number of elements of the array
+Declare an numpy array with input to the array being 2 tuples
+Can the numpy array contain a list and tuple of numbers ?
+Declare a 2*2 array element with complex data typle
+declare a 3*4 numpy aray of zeroes
+declare a 3*4 numpy array of ones.
+declare a 5*5 with diagonal elements being 1,2,3,4,5
+Declare an identity matrix of 3*3 dimension
+Declare an numpy array of first 100 numbers using a range kind of function.
+Declare an numpy array of first 100 even numbers using a range kind of function.
+Declare an numpy array of 5 between 0-20
+Declare an numpy array of 4 between 0-20
+Generate a random number array of 3 elements
+generate a random number array of 3*4 elements
+Declare an array of 0-4 and added 4 to each elements
+Declare an array of 0-4 and multiply each element  by 4
+Declare an array of 0-4 and another array of 4-8 and then matrix multiply them
+Declare an array of 16 random elements and reshape them to be 4*4
+What are universal functions; give example
+What are aggregate functions; give example
+Declare a numpy array of 10 elements. Print the first number, print last number, print alternate numbers. Print numbers in reverse
+Declare a 2D array and print each row of it
+Declare a 2D array of 3*3 and copy the small 2*2 sub array into a new array
+Declare a 2D array of 3*3 and copy the small 1st and 3rd row and all columns into a 2*3 sub array into a new array
+Declare a 3*3 array and print all individual elements with 1 for loop; Hint use an attribute of the array
+Declare an 4*3 array and find mean of rows and columns. int use a np.function similar to apply
+Define a function to return half of value of sum of arguments and use it in apply type function
+Declare a narndom array of 4*4 and return values that are greater than .5
+Declare an random array of 12 elements. Use reshape method to get and array of 3*4; Does the reshape change the original array a? If no, what can bve done to change that
+Declare a 3*3 array; We learnt about flat attribute; which method has similar behavior as flat.
+Declare and transpose a matrix
+Declare u arrays of same size and vertically and horizontall stack them
+Declare 2 single dimentions array; Arrange them using a np function such that each single dimension vector is the column of the resulting matrix
+Declare array of 3*3 and 3*2; can we vertical or horizontal stack them?
+Declare an array of 4*4, split in 3 arrays where middle column 0 is first array, Column 1 and 2 are 2nd array and column 3 is the 4th array.
+Varitions of above; splits as 2 columns, 2 columns 0 columns
+Varitions of abovesplit as 3 column 1 column 0 columns
+
+Declare an array a; assign b to the same array; change 3rd element of a to 975; does it change for b?
+Does the above result change if we copy with slicing?
+How can an array be actually copied to another variable.
+Broadcasting: Declare 1*4 array and 4*4 array and add them; what happends
+Structured array: define an np array where each row is a list and contains a integer, text, float and a complex number. There are multiple rows; need to specify dtypel
+Declare an np array and save it do disk
+Read an already availalbe numpy file from disk
+Read from a csv in a disk
+
+
